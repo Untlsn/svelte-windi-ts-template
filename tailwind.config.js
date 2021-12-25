@@ -4,7 +4,4 @@ module.exports = {
     exclude: ['node_modules', '.git', '.next'],
   },
   theme: {},
-  plugins: [
-    require('@windicss/plugin-interaction-variants'),
-  ],
 };
